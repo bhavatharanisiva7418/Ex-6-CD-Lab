@@ -59,6 +59,7 @@ return 0;
 k.txt.File
 ```
 ![image](https://github.com/user-attachments/assets/41e8432e-c1f5-4299-b529-755dfb8e4ce3)
+
 ![image](https://github.com/user-attachments/assets/ebe4c85c-8d94-421a-b719-85b667c94ad0)
 
 # Result
